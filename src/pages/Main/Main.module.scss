@@ -1,0 +1,14 @@
+.sorting{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 2rem;
+    width: 80%;
+
+    select{
+        width: 200px;
+    }
+    h5{
+        margin-bottom: 0;
+    }
+}
